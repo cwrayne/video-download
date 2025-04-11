@@ -1,4 +1,4 @@
-# How to Download Basically Any Video Ever (WIP)
+# How to Download Basically Any Video Ever
 A guide to download basically any video
 ## Prerequisites
  - [yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#release-files)
